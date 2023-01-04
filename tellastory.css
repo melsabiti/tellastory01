@@ -1,0 +1,11 @@
+.comic {
+    float: left;
+}
+
+p {
+    margin: 5px 5px 5px 5px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
